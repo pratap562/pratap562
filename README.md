@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratap562&label=Profile%20views&color=0e75b6&style=flat" alt="pratap562" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratap562" alt="pratap562" /></a> </p>
 
 - 🌱 I’m currently learning **Node Express Mongodb**
 
