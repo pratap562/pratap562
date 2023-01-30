@@ -25,7 +25,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" style="width:50px" alt="HTML icon"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:50px" alt="HTML icon"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="width:50px" alt="HTML icon"/>
-<img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" style="width:50px" alt="HTML icon"/>
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" style="width:50px" alt="HTML icon"/>
   
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" style="width:50px" alt="HTML icon"/>
 
