@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c3WjiShgbrlARRkbdN5gioO2D4w-Kr1m/view?usp=share_link](https://drive.google.com/file/d/1c3WjiShgbrlARRkbdN5gioO2D4w-Kr1m/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratap-686a1a214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratap-686a1a214" height="30" width="40" /></a>
 </p>
@@ -26,6 +26,8 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:50px" alt="HTML icon"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="width:55px" alt="HTML icon"/>
 <img src="https://faroukchebaiki.live/assets/images/express.png" style="width:55px" alt="HTML icon"/>
+<img src="https://www.freepnglogos.com/images/logo-mysql-26329.html" style="width:55px" alt="HTML icon"/>
+ 
   
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" style="width:55px" alt="HTML icon"/>
 
