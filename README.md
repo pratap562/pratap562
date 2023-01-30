@@ -34,8 +34,8 @@
 <h2>Tools<h2/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" style="width:50px" alt="HTML icon"/>
-<img src="https://git-scm.com/images/logos/logomark-orange@2x.png " style="width:50px" alt="HTML icon"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png " style="width:50px" alt="HTML icon"/>
+<img src="https://git-scm.com/images/logos/logomark-orange@2x.png" style="width:50px" alt="HTML icon"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" style="width:50px" alt="HTML icon"/>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width:50px" alt="HTML icon"/>
 
 <h2> GitHub Trophies <h2/>
