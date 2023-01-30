@@ -36,7 +36,7 @@
 
 <h2> GitHub Trophies <h2/>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithanss" alt="rohithanss" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratap562" alt="pratap562" /></a> </p>
 
 <img align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratap562&layout=compact&hide_border=true&theme=radical" />
 
