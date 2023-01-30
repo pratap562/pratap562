@@ -26,7 +26,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:50px" alt="HTML icon"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="width:55px" alt="HTML icon"/>
 <img src="https://faroukchebaiki.live/assets/images/express.png" style="width:55px" alt="HTML icon"/>
-<img src="https://www.freepnglogos.com/images/logo-mysql-26329.html" style="width:55px" alt="HTML icon"/>
+<img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" style="width:55px" alt="HTML icon"/>
  
   
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" style="width:55px" alt="HTML icon"/>
