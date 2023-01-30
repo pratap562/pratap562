@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratap</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
+<img align="right" width="400px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratap562&label=Profile%20views&color=0e75b6&style=flat" alt="pratap562" /> </p>
 
 
