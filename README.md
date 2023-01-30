@@ -26,7 +26,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:50px" alt="HTML icon"/>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="width:55px" alt="HTML icon"/>
 <img src="https://faroukchebaiki.live/assets/images/express.png" style="width:55px" alt="HTML icon"/>
-<img src="https://thumbnail.imgbin.com/20/17/9/imgbin-mysql-logo-database-portable-network-graphics-web-development-0bRTcWpC8Ps28zwrZjq88efaY_t.jpg" style="width:55px" alt="HTML icon"/>
+<img src="https://e7.pngegg.com/pngimages/1018/16/png-clipart-mysql-workbench-database-mysql-cluster-others-text-logo.png" style="width:55px" alt="HTML icon"/>
  
   
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" style="width:55px" alt="HTML icon"/>
