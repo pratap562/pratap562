@@ -34,9 +34,9 @@
 <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" style="width:50px" alt="HTML icon"/>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width:50px" alt="HTML icon"/>
 
-
-<h3>Tropies:</h3>
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratap562" alt="pratap562" /></a> </p> 
+<h2> GitHub Trophies <h2/>
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithanss" alt="rohithanss" /></a> </p>
 
 <img align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratap562&layout=compact&hide_border=true&theme=radical" />
 
