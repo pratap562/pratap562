@@ -47,7 +47,7 @@
 
 <img align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratap562&layout=compact&hide_border=true&theme=radical" />
 
-<p align="center">
+<p >
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratap562&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="pratap562" />
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratap562&layout=compact&hide_border=true&theme=radical" alt="pratap562" />
