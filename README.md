@@ -45,8 +45,7 @@
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratap562" alt="pratap562" /></a> </p>
 
-<img align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratap562&layout=compact&hide_border=true&theme=radical" />
-
+<p <img align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratap562&layout=compact&hide_border=true&theme=radical" /> </p>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratap562&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="pratap562" />
 
